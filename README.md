@@ -45,8 +45,8 @@
 ---
   
   ### 🔥 My States :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=strongdev6&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wolfi3Dev&theme=dark&background=000000)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strongdev6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfi3Dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
