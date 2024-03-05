@@ -20,7 +20,7 @@
   ### 💻 About Me :
   I am a Junior DevOps Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Illinois, United States.
 
-  - :telescope:  I’m working as a DevOps Developer and contributing to frontend, backend, and cloud deployment for building web applications.
+  - :telescope:  I’m working as a DevOps Developer and contributing to frontend, backend, and cloud deployment for building web applications. I am also starting to do freelance work and building a portfolio for my business
 
   - :seedling:  Exploring and expanding my knowledge of all of the languages and frameworks I can.
 
